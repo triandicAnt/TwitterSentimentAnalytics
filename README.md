@@ -73,4 +73,10 @@ If you know you couldn't do anything tonight, why wouldn't you say that from the
 ```
 ### Sentiment Plot:
 
+Plot between positive and negative words in a time frame:
+
+![alt text](https://github.com/sudhansusingh22/Twitter-Sentiment-Analytics/blob/master/plot.png "Sentiment Plot")
+
+
+
 
